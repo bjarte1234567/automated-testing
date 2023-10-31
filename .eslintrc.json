@@ -3,7 +3,8 @@
     "browser": true,
     "es2021": true
   },
-  "extends": ["eslint:recommended", "plugin:es6/recommended"],
+  "extends": ["eslint:recommended", "plugin:cypress/recommended"],
+
   "overrides": [
     {
       "files": ["**/*.cy.js"],

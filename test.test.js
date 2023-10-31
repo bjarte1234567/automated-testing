@@ -1,3 +1,1 @@
-const mamma = [
-    far: "rød",
-]
+
